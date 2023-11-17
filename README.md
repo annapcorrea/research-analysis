@@ -1,5 +1,5 @@
 # Research Analysis
-## Web scraping and analysis of research opportunities to STEM students
+## Web scraping and analysis of research opportunities for STEM students
 
 Web scraping of the website https://www.pathwaystoscience.org/ in order to pull information about research opportunities to STEM students. Then, data analysis is conducted in order to find patterns what the applications are looking for in students. 
 
